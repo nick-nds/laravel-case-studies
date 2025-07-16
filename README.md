@@ -1,5 +1,21 @@
 # Laravel Code Samples - Senior Developer Portfolio
 
+## Table of Contents
+
+- [Case Study 1: E-Commerce Inventory Management System](#case-study-1-e-commerce-inventory-management-system)
+  - [The Challenge](#the-challenge)
+  - [The Solution](#the-solution)
+  - [Controller Implementation](#controller-implementation)
+  - [Key Achievements](#key-achievements)
+- [Case Study 2: Multi-Tenant SaaS Notification System](#case-study-2-multi-tenant-saas-notification-system)
+  - [The Challenge](#the-challenge-1)
+  - [The Solution](#the-solution-1)
+  - [Notification Processing Job](#notification-processing-job)
+  - [Key Achievements](#key-achievements-1)
+- [Technical Highlights](#technical-highlights)
+
+---
+
 ## Case Study 1: E-Commerce Inventory Management System
 
 ### The Challenge
